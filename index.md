@@ -1,5 +1,5 @@
-# Lucas Lee
-![I like ramen](./ramen.JPG)
+# Introduction
+
 ![pic of me](./me.JPG)
 Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Science**.
 One of my favorite quotes is from my high school computer science teacher who always emphasized:
@@ -20,9 +20,13 @@ For the readme of this repo, please visit [here](./README.md)
 
 Things to do this quarter
 - [x] Find classes to take
-- [] Eat at Underbelly on campus
-- [] 3 recommendation letters
+- [ ] Eat at Underbelly on campus
+- [ ] 3 recommendation letters
 
-[Back to top](#lucas-lee)
+
+I also like to eat ramen
+![I like ramen](./ramen.JPG)
+
+[Back to top](#introduction)
 
 
