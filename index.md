@@ -1,7 +1,8 @@
 # Introduction
 
-![pic of me](./me.JPG){:height='400px' width='200px'}
-Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Science**.
+![pic of me](./me.JPG){:height='1824px' width='1026px'}
+
+### Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Science**.
 One of my favorite quotes is from my high school computer science teacher who always emphasized:
 > Think, write, then code
 
@@ -16,7 +17,9 @@ I am also part of the course staff of [DSC80](http://dsc80.com) this quarter as 
 - DSC30
 - DSC40B
 
+
 For the readme of this repo, please visit [here](./README.md)
+
 
 Things to do this quarter
 - [x] Find classes to take
@@ -24,9 +27,11 @@ Things to do this quarter
 - [ ] 3 recommendation letters
 
 
-## I also like to eat ramen
-![I like ramen](./ramen.JPG)
-
 [Back to top](#introduction)
+
+## I also like to eat ramen
+![I like ramen](./ramen.JPG){:height='1044px' width='540px'}
+
+
 
 
