@@ -1,6 +1,6 @@
 # Introduction
 
-![pic of me](./me.JPG)
+![pic of me](./me.JPG){:height='400px' width='200px'}
 Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Science**.
 One of my favorite quotes is from my high school computer science teacher who always emphasized:
 > Think, write, then code
@@ -24,7 +24,7 @@ Things to do this quarter
 - [ ] 3 recommendation letters
 
 
-I also like to eat ramen
+## I also like to eat ramen
 ![I like ramen](./ramen.JPG)
 
 [Back to top](#introduction)
