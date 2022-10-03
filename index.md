@@ -1,12 +1,12 @@
 # Introduction
 
-![pic of me](./me.JPG){:height='1824px' width='1026px'}
+![pic of me](./me.JPG)
 
-### Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Science**.
+Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Science**.
 One of my favorite quotes is from my high school computer science teacher who always emphasized:
 > Think, write, then code
 
-Since I tend to work on multiple projects at a time, I find myself switching environments with anaconda pretty often with 
+Since I jugglying between a few projects recently, I find myself switching environments with anaconda pretty often with 
 ```
 conda activate
 conda deactivate
@@ -21,16 +21,16 @@ I am also part of the course staff of [DSC80](http://dsc80.com) this quarter as 
 For the readme of this repo, please visit [here](./README.md)
 
 
-Things to do this quarter
-- [x] Find classes to take
-- [ ] Eat at Underbelly on campus
-- [ ] 3 recommendation letters
+Since this is my final year here at UCSD, some things that I want to do before graduation is:
+- [ ] Try every single restaurant on campus once 
+- [ ] Find my favoriate restaurant in SD
+- [ ] Go on a senior trip
 
 
 [Back to top](#introduction)
 
 ## I also like to eat ramen
-![I like ramen](./ramen.JPG){:height='1044px' width='540px'}
+![I like ramen](./ramen.JPG)
 
 
 
