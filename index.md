@@ -6,7 +6,8 @@ Hello, my name is Lucas and I'm currently a senior at UCSD studying **Data Scien
 One of my favorite quotes is from my high school computer science teacher who always emphasized:
 > Think, write, then code
 
-Since I jugglying between a few projects recently, I find myself switching environments with anaconda pretty often with 
+### This Quarter
+Since I am taking a couple project oriented classes this quarter, I find myself switching environments with anaconda pretty often with 
 ```
 conda activate
 conda deactivate
@@ -29,7 +30,7 @@ Since this is my final year here at UCSD, some things that I want to do before g
 
 [Back to top](#introduction)
 
-## I also like to eat ramen
+### I also like to eat ramen
 ![I like ramen](./ramen.JPG)
 
 
